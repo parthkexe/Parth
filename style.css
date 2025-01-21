@@ -1,3 +1,4 @@
+
 /*======================================
 [ CSS Table of contents ]
 * Global CSS
@@ -1003,7 +1004,6 @@ body{
 .why-choose .choose-right{
 	height:100%;
 	width:100%;
-	background-image:url("img/video_bg.svg");
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
